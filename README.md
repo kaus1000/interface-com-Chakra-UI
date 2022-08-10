@@ -51,6 +51,7 @@ O <span>Worldtrip</span> é aplicativo que mostra os principais destinos turisti
 - SASS
 - Swiper
 - Json server
+- Figma
 
 <br />
 
